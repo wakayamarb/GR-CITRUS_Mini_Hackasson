@@ -3,7 +3,7 @@ It is a repository that contains data of 'GR - CITRUS Mini Hackasson'.
 
 GR-CITRUS ミニハッカソン用のデータを置いているリポジトリです。
  
-#Template
+# Template
 
 このリポジトリにある gr_citrus_template の中身を、プロジェクトにしたいフォルダにコピーして、Visual Studio Codeの「フォルダを開く」から読み込んでください。
 
